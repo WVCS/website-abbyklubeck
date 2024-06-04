@@ -1,3 +1,35 @@
-body {
-
+body{
+  background-color: #CCE3DE;
+}
+h1{
+  font-size: 300%;
+  letter-spacing: 5px;
+  color: #967aa1;
+  font-family: "Lucadia Handwriting";
+}
+p{
+  font-size: 200%;
+  color: #967aa1
+}
+img{
+  width: 300px;
+  border-style: outset;
+  border-color: #967aa1;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  font-family: "Lucadia Handwriting";
+  underline: none;
+  
+}
+li{
+  float: left;
+}
+li a{
+  padding: 30px;
+  border: outset;
+}
+li a: hover{
+  background-color: #ffe5ec
 }
